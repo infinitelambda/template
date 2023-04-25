@@ -71,4 +71,4 @@ We are also chatty, so:</br>
 #️⃣ Follow us on [LinkedIn](https://www.linkedin.com/company/infinite-lambda/) </br>
 👋🏼 Or just [get in touch](https://infinitelambda.com/contacts/)
 
-[<img src="https://raw.githubusercontent.com/infinitelambda/cdn/main/general/images/GitHub-About-Section-1080x1080.png" alt="About IL" width="500">](https://infinitelambda.com/)
+[<img src="https://raw.githubusercontent.com/infinitelambda/cdn/1.0.0/general/images/GitHub-About-Section-1080x1080.png" alt="About IL" width="500">](https://infinitelambda.com/)
